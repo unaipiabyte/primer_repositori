@@ -41,6 +41,7 @@ Incidència
 - No inicia la màquina  
 
 Solució
+
 - Revisar l'adaptador de xarxa.
 
 - Revisar la configuració de VirtualBox. 
