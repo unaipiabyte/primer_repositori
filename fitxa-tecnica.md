@@ -47,7 +47,7 @@ Solució
 
 ## Imatge
 
-![Ubuntu Server](imatges/ubuntu.png)
+![Ubuntu Server](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNttwmuE0o7uWERlXrnU9PY7P_bUsS0hSiEOrUcUSDf3dpS7iV50B6RxM&s=10)
 
 ## Recursos
 
