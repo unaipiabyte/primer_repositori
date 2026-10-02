@@ -37,8 +37,8 @@ sudo apt update
 
 Incidència                                            
 
-No hi ha Internet              
-No inicia la màquina  
+- No hi ha Internet              
+- No inicia la màquina  
 
 Solució
 - Revisar l'adaptador de xarxa.
