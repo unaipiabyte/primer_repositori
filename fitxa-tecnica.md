@@ -52,7 +52,7 @@ Solució:
 
 -! foto 
 
-(https://static.wikia.nocookie.net/dragonball/images/f/f0/Goku_SSJ_3.jpg/revision/latest?cb=20140424183422&path-prefix=es)
+(https://i.pinimg.com/236x/c5/02/b0/c502b0bb2716338732cb87e67352dedc.jpg)
 
 ## Recursos
 
