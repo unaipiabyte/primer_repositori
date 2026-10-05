@@ -51,7 +51,7 @@ Solució:
 ## Imatge demanada 
  
 
-!(https://i.pinimg.com/236x/c5/02/b0/c502b0bb2716338732cb87e67352dedc.jpg)
+![Foto perrito](https://i.pinimg.com/236x/c5/02/b0/c502b0bb2716338732cb87e67352dedc.jpg)
 
 ## Recursos
 
