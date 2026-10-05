@@ -6,9 +6,9 @@ Instal·lar Ubuntu Server en una màquina virtual amb VirtualBox.
 
 ## Materials
 
-* Ordinador
-* VirtualBox
-* ISO d'Ubuntu Server
+-  Ordinador
+-  VirtualBox
+-  ISO d'Ubuntu Server
 
 ## Procediment
 
@@ -35,20 +35,22 @@ sudo apt update
 
 ## Incidències i solucions
 
-Incidència                                            
+Incidència:                                            
 
 - No hi ha Internet              
 - No inicia la màquina  
 
-Solució
+Solució:
 
-- Revisar l'adaptador de xarxa.
+1 - Revisar l'adaptador de xarxa.
 
-- Revisar la configuració de VirtualBox. 
+2 - Revisar la configuració de VirtualBox. 
 
-## Imatge
+## Imatge demanada 
 
-![Ubuntu Server](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNttwmuE0o7uWERlXrnU9PY7P_bUsS0hSiEOrUcUSDf3dpS7iV50B6RxM&s=10)
+-! foto 
+
+(https://static.wikia.nocookie.net/dragonball/images/f/f0/Goku_SSJ_3.jpg/revision/latest?cb=20140424183422&path-prefix=es)
 
 ## Recursos
 
