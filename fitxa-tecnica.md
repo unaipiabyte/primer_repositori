@@ -49,10 +49,9 @@ Solució:
 2 - Revisar la configuració de VirtualBox. 
 
 ## Imatge demanada 
+ 
 
--! foto 
-
-(https://i.pinimg.com/236x/c5/02/b0/c502b0bb2716338732cb87e67352dedc.jpg)
+!(https://i.pinimg.com/236x/c5/02/b0/c502b0bb2716338732cb87e67352dedc.jpg)
 
 ## Recursos
 
