@@ -3,6 +3,7 @@
 ## Objectiu
 
 Instal·lar Ubuntu Server en una màquina virtual utilitzant VirtualBoxgit status.
+
 La instal·lació serveix per tenir un servidor preparat per fer pràctiques.
 
 ## Materials
